@@ -22,7 +22,7 @@ public class VariableExample {
         //
         final int MONTHS_IN_YEAR = 12;
 
-        System.out.println("Clothing size" + clothingSize);
+        System.out.println("Clothing size : " + clothingSize);
         System.out.println("Website visitors: " + websiteVisitors);
         System.out.println("Student grade: " + studentGrade);
         System.out.println("Student GPA: " + studentGPA);
